@@ -1,0 +1,23 @@
+{
+  "name": "asynch_nodejs",
+  "version": "1.0.0",
+  "description": "Demonstrate a better way to deal with asynchronous call back complexity in nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwuniard/asynch_nodejs.git"
+  },
+  "keywords": [
+    "async",
+    "promise"
+  ],
+  "author": "Ronson Wuniardy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwuniard/asynch_nodejs/issues"
+  },
+  "homepage": "https://github.com/rwuniard/asynch_nodejs#readme"
+}
