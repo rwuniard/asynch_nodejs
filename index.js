@@ -81,3 +81,6 @@ function myLastFunction(arg1, callback) {
     console.log('mylastfunction');
 }
 //////////////////////////////////////////////////
+
+// Example of Promise
+
